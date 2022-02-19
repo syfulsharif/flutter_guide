@@ -13,6 +13,7 @@ class myApp extends StatelessWidget {
         appBar: AppBar(
           title: Text('Rodeo'),
         ),
+        body: Text('An App for bikers'),
       ),
     );
   }
