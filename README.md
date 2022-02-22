@@ -1,6 +1,6 @@
 # flutter_guide
 
-A new Flutter project.
+Starting to Learn Flutter
 
 ## Getting Started
 
